@@ -1,3 +1,0 @@
-minecraft:diamond, 1
-minecraft:torch, 1
-minecraft:sapling, 2

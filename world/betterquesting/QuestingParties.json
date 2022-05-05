@@ -1,0 +1,24 @@
+{
+  "parties": [
+    {
+      "members": [
+        {
+          "uuid": "e5779e2f-0d7c-40c7-a1d3-eba7031d7acf",
+          "status": "MEMBER"
+        },
+        {
+          "uuid": "0d11a9a5-b46a-4f34-88e4-56b9ade248a2",
+          "status": "OWNER"
+        }
+      ],
+      "properties": {
+        "betterquesting": {
+          "partySingleReward": false,
+          "name": "DyTRI",
+          "partyShareLives": false
+        }
+      },
+      "partyID": 0
+    }
+  ]
+}
